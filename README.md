@@ -9,10 +9,19 @@ diagnosis of human disease. The method is described in Lin et al. (2018),
 using t-CyCIF and conventional optical microscopes*
 ](http://dx.doi.org/10.7554/eLife.31657).
 
-Here we have reproduced several key figures from the manuscript as an
-interactive Jupyter notebook. Whereas the manuscript only has space for plots
-of a few antibody combinations from a few samples, this notebook allows
-replotting of any combination available in the full dataset.
+Here we have reproduced several plots from the Figure 5 & 6 in the manuscript as an
+interactive Jupyter notebook. Here, we provides 3 plots (Figure 6A: Density scatter 
+plot; Figure 6A: Histogram of 4 cycles; Figure 6D: Histogram to compared 2 cycle)
+Whereas the manuscript only has space for plots of a few antibody combinations from 
+a few samples, this notebook allows replotting of any combination available in the 
+full dataset (including one sets of Tonsil samples and two sets of Melanoma samples). 
+
+For more infomration, please refer to the publisher page:
+https://doi.org/10.7554/eLife.31657
+
+Or visit our website:
+http://lincs.hms.harvard.edu/lin-elife-2018/
+
 
 Instructions
 ============
